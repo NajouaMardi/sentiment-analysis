@@ -1,0 +1,12 @@
+jupyter
+pandas
+
+#librairies NLP (traitement de texte et prétraitement)
+scikit-learn
+nltk
+#pour utiliser des modèles pré-entraînés (par exemple, BERT)
+transformers
+
+#pour la visualisation des données
+matplotlib
+seaborn

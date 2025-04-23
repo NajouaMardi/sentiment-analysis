@@ -1,0 +1,7 @@
+#ignoring data since it's big
+app/data/*.csv
+app/data/*.json
+app/data/*.jsonl
+
+.vscode/
+.idea/
